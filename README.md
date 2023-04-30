@@ -1,22 +1,30 @@
 # Jeux-d-Anagrame
 En cliquant sur Run as java application cette interface s' affiche : 
 ![Capture](https://user-images.githubusercontent.com/124509691/235353943-8f04dedb-5dc8-497e-96ad-0795318482e9.PNG)
+
+
 Comme on a mettre les mots de notre jeux d anagramme dans une tableau : 
+
+
 ![Capture2](https://user-images.githubusercontent.com/124509691/235353982-0c3b345d-ae2b-4a37-86a5-2fe6e70a1470.PNG)
 
 
+
+
 Le mot correct à cette question est classe .
-
-
 
 ____________________ Si l’utilisateur répond par une vrai réponse ___________________
 
 Entrez la réponse puis cliquez sur valider :
 ![Capture3](https://user-images.githubusercontent.com/124509691/235354002-8f29b59e-63a1-4d97-9df5-17217e7b0274.PNG)
 
+
+
 Message : Gagne !! Essayer encore 
 
 ____________________ Si l’utilisateur répond par une fausse réponse ________________
+
+
 ![Capture4](https://user-images.githubusercontent.com/124509691/235354056-7b65b08b-5424-4b01-acd8-9960f03ec54d.PNG)
 
 
