@@ -16,6 +16,9 @@ Le mot correct à cette question est classe .
 ____________________ Si l’utilisateur répond par une vrai réponse ___________________
 
 Entrez la réponse puis cliquez sur valider :
+
+
+
 ![Capture3](https://user-images.githubusercontent.com/124509691/235354002-8f29b59e-63a1-4d97-9df5-17217e7b0274.PNG)
 
 
